@@ -1,0 +1,9 @@
+@@ -3,7 +3,7 @@
+ dmenu \- dynamic menu
+ .SH SYNOPSIS
+ .B dmenu
+-.RB [ \-bfiv ]
++.RB [ \-bfsv ]
+ .RB [ \-l
+ .IR lines ]
+ .RB [ \-m
